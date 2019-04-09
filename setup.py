@@ -11,9 +11,9 @@ PROJECT_LICENSE = 'MIT'
 PROJECT_AUTHOR = 'ESPHome'
 PROJECT_COPYRIGHT = '2019, ESPHome'
 PROJECT_URL = 'https://esphome.io/'
-PROJECT_EMAIL = 'contact@esphome.io'
+PROJECT_EMAIL = 'troi.mait08@gmail.com'
 
-PROJECT_GITHUB_USERNAME = 'esphome'
+PROJECT_GITHUB_USERNAME = 'TroiNguy3n'
 PROJECT_GITHUB_REPOSITORY = 'esphome'
 
 PYPI_URL = 'https://pypi.python.org/pypi/{}'.format(PROJECT_PACKAGE_NAME)
