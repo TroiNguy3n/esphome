@@ -1,0 +1,8 @@
+#!/usr/bin/with-contenv bashio
+# ==============================================================================
+# Community Hass.io Add-ons: ESPHome
+# Runs the NGINX proxy
+# ==============================================================================
+
+bashio::log.info "Starting NGINX..."
+exec nginx -g "daemon off;"
